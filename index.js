@@ -1,7 +1,7 @@
-function divide() {
-    return 2000/100;
+function divide(){
+    return 2000 / 100;
 }
-
+divide();
 let square = (parameter1) => {
     return parameter1 * parameter1;
 
